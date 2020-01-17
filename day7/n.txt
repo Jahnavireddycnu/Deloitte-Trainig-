@@ -1,0 +1,4 @@
+fool : 12
+fat : 13
+skinny : 32
+milk : 23
